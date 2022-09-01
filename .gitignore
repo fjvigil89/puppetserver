@@ -2,3 +2,4 @@ code/*
 puppet/*
 puppetdb-postgres/*
 puppetdb/*
+puppetserver/*
