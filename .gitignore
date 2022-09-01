@@ -3,3 +3,4 @@ puppet/*
 puppetdb-postgres/*
 puppetdb/*
 puppetserver/*
+conf/ssl
