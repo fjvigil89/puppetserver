@@ -2,6 +2,6 @@
 sources:
   site:
     remote: 'git@github.com:fjvigil89/environmnets.git' 
-    basedir: '/home/ubuntu/puppetserver/code/environments'
+    basedir: '/srv/puppetserver/code/environments'
 
 
