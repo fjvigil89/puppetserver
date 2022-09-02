@@ -1,7 +1,8 @@
 ---
 sources:
   site:
-    remote: 'git@github.com:fjvigil89/environmnets.git' 
+    #remote: 'git@bitbucket.org:edu_sistema/environmnets.git' 
+    remote: "https://github.com/fjvigil89/environmnets.git"
     basedir: '/srv/puppetserver/code/environments'
 
 
