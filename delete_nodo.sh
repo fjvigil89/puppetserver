@@ -6,6 +6,6 @@ docker exec -it puppet puppet node deactivate $1
 
 
 echo "Elimación del node en Puppetserver"
-docker exec -it puppet puppetserver ca clean $1
+docker exec -it puppet puppetserver ca clean --certname $1
 
 
